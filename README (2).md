@@ -1,4 +1,4 @@
-# Real-Time Driver State Monitoring using Quantized Neural Networks
+Deploying-Quantized-Neural-Networks-for-Real-Time-Driver-Emotion-and-Seatbelt-Monitoring
 
 This project implements a lightweight, real-time system to monitor a driver's state by analyzing their facial emotion and detecting the presence of a seatbelt. The system is built using deep learning and optimized for high performance on CPU-based edge devices through model quantization.
 
@@ -79,7 +79,7 @@ tf2onnx
 
 ## 🚀 Usage
 
-1. **Download Dataset:** Obtain the `fer2013.csv` dataset (e.g., from Kaggle) and place it in the project root.
+1. **Download Dataset:** Obtain the `fer2013.csv` dataset (e.g., from Kaggle - https://www.kaggle.com/datasets/ahmedmoorsy/facial-expression ) and place it in the project root.
 2. **Run Notebook:** Open the `.ipynb` notebook and execute all cells sequentially.
 
 ## 💿 Dataset
