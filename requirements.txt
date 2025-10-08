@@ -1,0 +1,9 @@
+tensorflow
+pandas
+scikit-learn
+seaborn
+matplotlib
+opencv-python
+onnx
+onnxruntime
+tf2onnx
